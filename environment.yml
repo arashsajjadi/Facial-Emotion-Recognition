@@ -1,0 +1,19 @@
+name: fer_system
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - opencv
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pytorch-cuda=11.8
+  - torchvision
+  - pip
+  - pip:
+      - onnx
+      - onnxruntime
+      - torch-tensorrt
