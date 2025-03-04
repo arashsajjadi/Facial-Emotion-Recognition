@@ -4,6 +4,7 @@
 *Developed by Arash Sajjadi*
 
 Welcome to the Facial Emotion Recognition (FER) System – a home project crafted to explore, experiment, and advance the field of emotion recognition using deep learning. This project is designed not only to satisfy curiosity but also to serve as a playground for experimenting with state-of-the-art techniques in computer vision and neural network fine-tuning. 
+![IMG_test_1](https://github.com/user-attachments/assets/7b093d6b-2b36-4a9d-a23c-d0637b8088c0)
 
 ## Table of Contents
 
